@@ -1,0 +1,81 @@
+﻿id_produto,nome_produto,categoria,marca,preco,faixa_preco,total_vendido,receita_total,total_pedidos,vendas_ultimos_3m,vendas_3m_anteriores,total_vendido_categoria,preco_medio_categoria,ranking_receita,status_vendas
+PROD-0062,L'Oréal Beleza Modelo B506,Beleza,L'Oréal,104.55,Médio,355,37367.64,199,0,0,3209,161.5060000000000000,66,Estável ou Crescendo
+PROD-0070,Nivea Beleza Modelo J133,Beleza,Nivea,203.78,Caro,300,60667.69,177,0,0,3209,161.5060000000000000,55,Estável ou Crescendo
+PROD-0069,Avon Beleza Modelo I176,Beleza,Avon,105.82,Médio,273,28985.92,168,0,0,3209,161.5060000000000000,70,Estável ou Crescendo
+PROD-0065,Natura Beleza Modelo E486,Beleza,Natura,150.77,Médio,353,53283.07,199,0,0,3209,161.5060000000000000,58,Estável ou Crescendo
+PROD-0063,Avon Beleza Modelo C813,Beleza,Avon,204.28,Caro,291,59037.32,172,0,0,3209,161.5060000000000000,56,Estável ou Crescendo
+PROD-0068,Natura Beleza Modelo H988,Beleza,Natura,91.97,Médio,331,30458.63,187,0,0,3209,161.5060000000000000,68,Estável ou Crescendo
+PROD-0061,Nivea Beleza Modelo A296,Beleza,Nivea,64.88,Médio,329,21122.17,195,0,0,3209,161.5060000000000000,74,Estável ou Crescendo
+PROD-0066,Natura Beleza Modelo F184,Beleza,Natura,250.45,Caro,279,69099.84,162,0,0,3209,161.5060000000000000,49,Estável ou Crescendo
+PROD-0067,L'Oréal Beleza Modelo G978,Beleza,L'Oréal,204.56,Caro,330,67978.34,183,0,0,3209,161.5060000000000000,52,Estável ou Crescendo
+PROD-0064,Natura Beleza Modelo D978,Beleza,Natura,234.00,Caro,368,85279.28,213,0,0,3209,161.5060000000000000,45,Estável ou Crescendo
+PROD-0079,Grow Brinquedos Modelo I542,Brinquedos,Grow,472.04,Caro,332,156635.46,187,0,0,3154,296.2060000000000000,30,Estável ou Crescendo
+PROD-0072,Mattel Brinquedos Modelo B406,Brinquedos,Mattel,466.22,Caro,315,146424.72,179,0,0,3154,296.2060000000000000,32,Estável ou Crescendo
+PROD-0075,Lego Brinquedos Modelo E454,Brinquedos,Lego,262.88,Caro,317,83406.62,181,0,0,3154,296.2060000000000000,46,Estável ou Crescendo
+PROD-0073,Grow Brinquedos Modelo C498,Brinquedos,Grow,421.46,Caro,315,133315.82,182,0,0,3154,296.2060000000000000,35,Estável ou Crescendo
+PROD-0076,Estrela Brinquedos Modelo F448,Brinquedos,Estrela,423.37,Caro,313,132858.98,195,0,0,3154,296.2060000000000000,36,Estável ou Crescendo
+PROD-0078,Hasbro Brinquedos Modelo H561,Brinquedos,Hasbro,397.19,Caro,295,116457.96,173,0,0,3154,296.2060000000000000,41,Estável ou Crescendo
+PROD-0071,Hasbro Brinquedos Modelo A312,Brinquedos,Hasbro,32.44,Barato,321,10472.86,191,0,0,3154,296.2060000000000000,78,Estável ou Crescendo
+PROD-0080,Mattel Brinquedos Modelo J733,Brinquedos,Mattel,65.70,Médio,307,20358.12,186,0,0,3154,296.2060000000000000,75,Estável ou Crescendo
+PROD-0074,Hasbro Brinquedos Modelo D857,Brinquedos,Hasbro,207.33,Caro,315,64866.29,192,0,0,3154,296.2060000000000000,53,Estável ou Crescendo
+PROD-0077,Grow Brinquedos Modelo G892,Brinquedos,Grow,213.43,Caro,324,68059.98,179,0,0,3154,296.2060000000000000,51,Estável ou Crescendo
+PROD-0039,Tramontina Casa & Jardim Modelo I292,Casa & Jardim,Tramontina,1050.87,Caro,321,334862.30,175,0,0,3260,578.9460000000000000,21,Estável ou Crescendo
+PROD-0037,Philco Casa & Jardim Modelo G194,Casa & Jardim,Philco,1019.62,Caro,282,286899.96,151,0,0,3260,578.9460000000000000,22,Estável ou Crescendo
+PROD-0035,Tramontina Casa & Jardim Modelo E526,Casa & Jardim,Tramontina,683.62,Caro,375,255407.95,216,0,0,3260,578.9460000000000000,23,Estável ou Crescendo
+PROD-0036,Philco Casa & Jardim Modelo F308,Casa & Jardim,Philco,306.57,Caro,307,94269.00,188,0,0,3260,578.9460000000000000,44,Estável ou Crescendo
+PROD-0031,Philco Casa & Jardim Modelo A148,Casa & Jardim,Philco,675.90,Caro,349,236613.98,201,0,0,3260,578.9460000000000000,25,Estável ou Crescendo
+PROD-0034,Britânia Casa & Jardim Modelo D824,Casa & Jardim,Britânia,374.87,Caro,335,126304.56,186,0,0,3260,578.9460000000000000,39,Estável ou Crescendo
+PROD-0038,Britânia Casa & Jardim Modelo H486,Casa & Jardim,Britânia,80.81,Médio,309,24719.54,187,0,0,3260,578.9460000000000000,72,Estável ou Crescendo
+PROD-0040,Oster Casa & Jardim Modelo J313,Casa & Jardim,Oster,276.08,Caro,278,77929.80,162,0,0,3260,578.9460000000000000,48,Estável ou Crescendo
+PROD-0033,Britânia Casa & Jardim Modelo C288,Casa & Jardim,Britânia,373.87,Caro,307,113478.39,182,0,0,3260,578.9460000000000000,42,Estável ou Crescendo
+PROD-0032,Philco Casa & Jardim Modelo B426,Casa & Jardim,Philco,947.25,Caro,397,375390.50,228,0,0,3260,578.9460000000000000,20,Estável ou Crescendo
+PROD-0010,Philips Eletrônicos Modelo J564,Eletrônicos,Philips,3667.81,Caro,314,1148504.85,185,0,0,3255,2968.6020000000000000,11,Estável ou Crescendo
+PROD-0007,Xiaomi Eletrônicos Modelo G307,Eletrônicos,Xiaomi,4077.56,Caro,376,1527229.60,199,0,0,3255,2968.6020000000000000,8,Estável ou Crescendo
+PROD-0002,LG Eletrônicos Modelo B589,Eletrônicos,LG,4314.52,Caro,328,1396464.83,194,0,0,3255,2968.6020000000000000,9,Estável ou Crescendo
+PROD-0005,Xiaomi Eletrônicos Modelo E183,Eletrônicos,Xiaomi,3948.14,Caro,311,1236169.37,189,0,0,3255,2968.6020000000000000,10,Estável ou Crescendo
+PROD-0009,LG Eletrônicos Modelo I600,Eletrônicos,LG,3268.59,Caro,334,1096015.78,194,0,0,3255,2968.6020000000000000,12,Estável ou Crescendo
+PROD-0004,Xiaomi Eletrônicos Modelo D945,Eletrônicos,Xiaomi,3638.68,Caro,296,1080703.60,169,0,0,3255,2968.6020000000000000,13,Estável ou Crescendo
+PROD-0001,Samsung Eletrônicos Modelo A402,Eletrônicos,Samsung,2928.39,Caro,299,872460.85,183,0,0,3255,2968.6020000000000000,16,Estável ou Crescendo
+PROD-0008,LG Eletrônicos Modelo H632,Eletrônicos,LG,1577.31,Caro,358,568522.27,211,0,0,3255,2968.6020000000000000,18,Estável ou Crescendo
+PROD-0003,Xiaomi Eletrônicos Modelo C818,Eletrônicos,Xiaomi,1775.27,Caro,298,530801.65,177,0,0,3255,2968.6020000000000000,19,Estável ou Crescendo
+PROD-0006,Sony Eletrônicos Modelo F677,Eletrônicos,Sony,489.75,Caro,341,165617.63,181,0,0,3255,2968.6020000000000000,29,Estável ou Crescendo
+PROD-0044,Topper Esportes Modelo D764,Esportes,Topper,394.35,Caro,318,126371.05,185,0,0,3255,400.2610000000000000,38,Estável ou Crescendo
+PROD-0045,Penalty Esportes Modelo E609,Esportes,Penalty,429.74,Caro,323,139664.87,183,0,0,3255,400.2610000000000000,34,Estável ou Crescendo
+PROD-0048,Nike Esportes Modelo H698,Esportes,Nike,238.19,Caro,327,78185.35,193,0,0,3255,400.2610000000000000,47,Estável ou Crescendo
+PROD-0050,Adidas Esportes Modelo J770,Esportes,Adidas,419.47,Caro,359,151239.98,197,0,0,3255,400.2610000000000000,31,Estável ou Crescendo
+PROD-0041,Nike Esportes Modelo A294,Esportes,Nike,200.97,Caro,340,68248.78,193,0,0,3255,400.2610000000000000,50,Estável ou Crescendo
+PROD-0046,Topper Esportes Modelo F427,Esportes,Topper,618.84,Caro,301,185214.21,186,0,0,3255,400.2610000000000000,27,Estável ou Crescendo
+PROD-0043,Topper Esportes Modelo C665,Esportes,Topper,735.50,Caro,303,223248.81,187,0,0,3255,400.2610000000000000,26,Estável ou Crescendo
+PROD-0042,Topper Esportes Modelo B812,Esportes,Topper,734.98,Caro,344,252925.37,192,0,0,3255,400.2610000000000000,24,Estável ou Crescendo
+PROD-0047,Topper Esportes Modelo G984,Esportes,Topper,74.74,Médio,330,24841.48,192,0,0,3255,400.2610000000000000,71,Estável ou Crescendo
+PROD-0049,Penalty Esportes Modelo I437,Esportes,Penalty,155.83,Médio,310,48891.55,179,0,0,3255,400.2610000000000000,59,Estável ou Crescendo
+PROD-0017,Apple Informática Modelo G799,Informática,Apple,3192.47,Caro,303,966033.26,175,0,0,3360,4615.6440000000000000,15,Estável ou Crescendo
+PROD-0012,HP Informática Modelo B505,Informática,HP,5869.26,Caro,365,2136896.63,197,0,0,3360,4615.6440000000000000,2,Estável ou Crescendo
+PROD-0018,Lenovo Informática Modelo H456,Informática,Lenovo,5332.21,Caro,332,1782079.65,203,0,0,3360,4615.6440000000000000,3,Estável ou Crescendo
+PROD-0020,Dell Informática Modelo J574,Informática,Dell,7834.38,Caro,312,2453463.65,187,0,0,3360,4615.6440000000000000,1,Estável ou Crescendo
+PROD-0011,Apple Informática Modelo A672,Informática,Apple,4642.12,Caro,349,1622058.60,190,0,0,3360,4615.6440000000000000,6,Estável ou Crescendo
+PROD-0014,Dell Informática Modelo D161,Informática,Dell,4466.96,Caro,382,1698349.16,218,0,0,3360,4615.6440000000000000,4,Estável ou Crescendo
+PROD-0016,Apple Informática Modelo F491,Informática,Apple,3183.35,Caro,311,988399.75,181,0,0,3360,4615.6440000000000000,14,Estável ou Crescendo
+PROD-0019,Apple Informática Modelo I845,Informática,Apple,4372.09,Caro,355,1548765.99,198,0,0,3360,4615.6440000000000000,7,Estável ou Crescendo
+PROD-0013,Lenovo Informática Modelo C146,Informática,Lenovo,4753.00,Caro,342,1633428.44,199,0,0,3360,4615.6440000000000000,5,Estável ou Crescendo
+PROD-0015,Dell Informática Modelo E284,Informática,Dell,2510.60,Caro,309,789971.75,188,0,0,3360,4615.6440000000000000,17,Estável ou Crescendo
+PROD-0056,Record Livros Modelo F617,Livros,Record,26.14,Barato,331,8669.53,188,0,0,3153,92.3830000000000000,80,Estável ou Crescendo
+PROD-0054,Companhia das Letras Livros Modelo D784,Livros,Companhia das Letras,143.15,Médio,304,43558.24,180,0,0,3153,92.3830000000000000,61,Estável ou Crescendo
+PROD-0053,Rocco Livros Modelo C160,Livros,Rocco,148.79,Médio,278,41193.45,179,0,0,3153,92.3830000000000000,62,Estável ou Crescendo
+PROD-0051,Sextante Livros Modelo A757,Livros,Sextante,145.81,Médio,280,40661.00,161,0,0,3153,92.3830000000000000,63,Estável ou Crescendo
+PROD-0059,Rocco Livros Modelo I648,Livros,Rocco,115.27,Médio,327,37678.54,182,0,0,3153,92.3830000000000000,65,Estável ou Crescendo
+PROD-0060,Sextante Livros Modelo J283,Livros,Sextante,125.77,Médio,288,35732.46,168,0,0,3153,92.3830000000000000,67,Estável ou Crescendo
+PROD-0057,Rocco Livros Modelo G731,Livros,Rocco,104.72,Médio,289,30025.90,165,0,0,3153,92.3830000000000000,69,Estável ou Crescendo
+PROD-0052,Intrínseca Livros Modelo B837,Livros,Intrínseca,46.16,Barato,356,16085.24,196,0,0,3153,92.3830000000000000,76,Estável ou Crescendo
+PROD-0055,Sextante Livros Modelo E745,Livros,Sextante,42.19,Barato,354,15049.52,198,0,0,3153,92.3830000000000000,77,Estável ou Crescendo
+PROD-0058,Companhia das Letras Livros Modelo H664,Livros,Companhia das Letras,25.83,Barato,346,8990.38,200,0,0,3153,92.3830000000000000,79,Estável ou Crescendo
+PROD-0025,Nike Moda Modelo E145,Moda,Nike,169.50,Médio,385,64806.06,215,0,0,3296,281.4440000000000000,54,Estável ou Crescendo
+PROD-0029,Adidas Moda Modelo I633,Moda,Adidas,591.85,Caro,308,182833.67,187,0,0,3296,281.4440000000000000,28,Estável ou Crescendo
+PROD-0030,Zara Moda Modelo J705,Moda,Zara,64.75,Médio,347,22583.71,206,0,0,3296,281.4440000000000000,73,Estável ou Crescendo
+PROD-0028,Farm Moda Modelo H938,Moda,Farm,470.35,Caro,309,144521.68,178,0,0,3296,281.4440000000000000,33,Estável ou Crescendo
+PROD-0024,Nike Moda Modelo D557,Moda,Nike,368.55,Caro,347,128100.65,181,0,0,3296,281.4440000000000000,37,Estável ou Crescendo
+PROD-0022,Zara Moda Modelo B293,Moda,Zara,118.42,Médio,338,39845.39,205,0,0,3296,281.4440000000000000,64,Estável ou Crescendo
+PROD-0021,Renner Moda Modelo A943,Moda,Renner,333.20,Caro,309,102177.79,180,0,0,3296,281.4440000000000000,43,Estável ou Crescendo
+PROD-0026,Farm Moda Modelo F984,Moda,Farm,153.84,Médio,291,44548.27,182,0,0,3296,281.4440000000000000,60,Estável ou Crescendo
+PROD-0023,Renner Moda Modelo C116,Moda,Renner,380.51,Caro,315,119092.61,174,0,0,3296,281.4440000000000000,40,Estável ou Crescendo
+PROD-0027,Zara Moda Modelo G849,Moda,Zara,163.47,Médio,347,57197.20,194,0,0,3296,281.4440000000000000,57,Estável ou Crescendo
