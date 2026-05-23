@@ -283,6 +283,3 @@ streamlit run dashboard/app.py
 `Analytics Engineering · dbt · Streamlit · PostgreSQL · Python`
 
 </div>
-#   d a t a w a r e h o u s e - e c o m m e r c e 
- 
- 
