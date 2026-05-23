@@ -59,7 +59,7 @@ O principal objetivo deste projeto é mostrar:
 
 ## Arquitetura Medallion
 
-> 📊 [Ver diagrama interativo completo](<docs/Arquitetura - Standalone.html>)
+> 📊 [Ver diagrama interativo completo](<docs/meldalhao.mp4>)
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -283,5 +283,6 @@ streamlit run dashboard/app.py
 `Analytics Engineering · dbt · Streamlit · PostgreSQL · Python`
 
 </div>
-#   d a t a w a r e h o u s e - e c o m m e r c e  
+#   d a t a w a r e h o u s e - e c o m m e r c e 
+ 
  
