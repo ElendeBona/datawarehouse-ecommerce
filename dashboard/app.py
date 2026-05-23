@@ -1,15 +1,12 @@
 import streamlit as st
 import pandas as pd
-import os
 import warnings
 from pathlib import Path
-from dotenv import load_dotenv
 import plotly.graph_objects as go
 import plotly.express as px
 
 warnings.filterwarnings(
     "ignore", "pandas only supports SQLAlchemy connectable")
-load_dotenv()
 
 DATA_DIR = Path(__file__).parent / "data"
 
