@@ -1,0 +1,81 @@
+id_produto,nome_produto,categoria,marca,preco,data_criacao
+PROD-0001,Samsung Eletrônicos Modelo A402,Eletrônicos,Samsung,2928.39,2023-07-08T17:39:14
+PROD-0002,LG Eletrônicos Modelo B589,Eletrônicos,LG,4314.52,2023-03-20T14:29:47
+PROD-0003,Xiaomi Eletrônicos Modelo C818,Eletrônicos,Xiaomi,1775.27,2023-10-09T10:58:30
+PROD-0004,Xiaomi Eletrônicos Modelo D945,Eletrônicos,Xiaomi,3638.68,2023-04-22T18:48:15
+PROD-0005,Xiaomi Eletrônicos Modelo E183,Eletrônicos,Xiaomi,3948.14,2023-09-27T16:28:33
+PROD-0006,Sony Eletrônicos Modelo F677,Eletrônicos,Sony,489.75,2023-02-27T08:03:53
+PROD-0007,Xiaomi Eletrônicos Modelo G307,Eletrônicos,Xiaomi,4077.56,2023-10-21T20:34:09
+PROD-0008,LG Eletrônicos Modelo H632,Eletrônicos,LG,1577.31,2023-08-15T19:07:43
+PROD-0009,LG Eletrônicos Modelo I600,Eletrônicos,LG,3268.59,2023-02-16T21:57:32
+PROD-0010,Philips Eletrônicos Modelo J564,Eletrônicos,Philips,3667.81,2023-03-09T17:32:26
+PROD-0011,Apple Informática Modelo A672,Informática,Apple,4642.12,2023-08-25T15:43:51
+PROD-0012,HP Informática Modelo B505,Informática,HP,5869.26,2023-05-11T12:52:00
+PROD-0013,Lenovo Informática Modelo C146,Informática,Lenovo,4753.0,2023-08-05T21:22:44
+PROD-0014,Dell Informática Modelo D161,Informática,Dell,4466.96,2023-02-05T19:59:30
+PROD-0015,Dell Informática Modelo E284,Informática,Dell,2510.6,2023-03-11T03:49:41
+PROD-0016,Apple Informática Modelo F491,Informática,Apple,3183.35,2023-08-18T01:55:58
+PROD-0017,Apple Informática Modelo G799,Informática,Apple,3192.47,2023-12-05T11:55:34
+PROD-0018,Lenovo Informática Modelo H456,Informática,Lenovo,5332.21,2023-03-02T18:11:34
+PROD-0019,Apple Informática Modelo I845,Informática,Apple,4372.09,2023-04-25T23:53:00
+PROD-0020,Dell Informática Modelo J574,Informática,Dell,7834.38,2023-12-11T08:46:34
+PROD-0021,Renner Moda Modelo A943,Moda,Renner,333.2,2023-04-28T15:15:29
+PROD-0022,Zara Moda Modelo B293,Moda,Zara,118.42,2023-02-27T11:02:51
+PROD-0023,Renner Moda Modelo C116,Moda,Renner,380.51,2023-05-04T22:13:04
+PROD-0024,Nike Moda Modelo D557,Moda,Nike,368.55,2023-11-03T19:43:45
+PROD-0025,Nike Moda Modelo E145,Moda,Nike,169.5,2023-07-25T19:28:14
+PROD-0026,Farm Moda Modelo F984,Moda,Farm,153.84,2023-01-29T13:08:32
+PROD-0027,Zara Moda Modelo G849,Moda,Zara,163.47,2023-10-22T12:20:36
+PROD-0028,Farm Moda Modelo H938,Moda,Farm,470.35,2023-06-14T10:15:19
+PROD-0029,Adidas Moda Modelo I633,Moda,Adidas,591.85,2023-04-24T03:26:19
+PROD-0030,Zara Moda Modelo J705,Moda,Zara,64.75,2023-03-31T19:40:43
+PROD-0031,Philco Casa & Jardim Modelo A148,Casa & Jardim,Philco,675.9,2023-06-26T18:41:42
+PROD-0032,Philco Casa & Jardim Modelo B426,Casa & Jardim,Philco,947.25,2023-12-23T23:26:26
+PROD-0033,Britânia Casa & Jardim Modelo C288,Casa & Jardim,Britânia,373.87,2023-10-03T23:30:15
+PROD-0034,Britânia Casa & Jardim Modelo D824,Casa & Jardim,Britânia,374.87,2023-03-15T15:51:29
+PROD-0035,Tramontina Casa & Jardim Modelo E526,Casa & Jardim,Tramontina,683.62,2023-10-13T18:33:08
+PROD-0036,Philco Casa & Jardim Modelo F308,Casa & Jardim,Philco,306.57,2023-06-19T21:41:05
+PROD-0037,Philco Casa & Jardim Modelo G194,Casa & Jardim,Philco,1019.62,2023-10-02T19:46:53
+PROD-0038,Britânia Casa & Jardim Modelo H486,Casa & Jardim,Britânia,80.81,2023-12-11T10:38:38
+PROD-0039,Tramontina Casa & Jardim Modelo I292,Casa & Jardim,Tramontina,1050.87,2023-10-28T13:46:42
+PROD-0040,Oster Casa & Jardim Modelo J313,Casa & Jardim,Oster,276.08,2023-06-20T07:19:58
+PROD-0041,Nike Esportes Modelo A294,Esportes,Nike,200.97,2023-03-02T21:47:48
+PROD-0042,Topper Esportes Modelo B812,Esportes,Topper,734.98,2023-11-06T15:45:13
+PROD-0043,Topper Esportes Modelo C665,Esportes,Topper,735.5,2023-06-14T09:49:18
+PROD-0044,Topper Esportes Modelo D764,Esportes,Topper,394.35,2023-07-03T16:19:16
+PROD-0045,Penalty Esportes Modelo E609,Esportes,Penalty,429.74,2023-08-27T16:06:51
+PROD-0046,Topper Esportes Modelo F427,Esportes,Topper,618.84,2023-04-15T11:23:20
+PROD-0047,Topper Esportes Modelo G984,Esportes,Topper,74.74,2023-04-24T06:47:09
+PROD-0048,Nike Esportes Modelo H698,Esportes,Nike,238.19,2023-10-24T16:46:26
+PROD-0049,Penalty Esportes Modelo I437,Esportes,Penalty,155.83,2023-04-28T14:24:36
+PROD-0050,Adidas Esportes Modelo J770,Esportes,Adidas,419.47,2023-12-17T18:21:16
+PROD-0051,Sextante Livros Modelo A757,Livros,Sextante,145.81,2023-09-09T14:29:10
+PROD-0052,Intrínseca Livros Modelo B837,Livros,Intrínseca,46.16,2023-10-07T19:31:11
+PROD-0053,Rocco Livros Modelo C160,Livros,Rocco,148.79,2023-09-26T15:02:53
+PROD-0054,Companhia das Letras Livros Modelo D784,Livros,Companhia das Letras,143.15,2023-01-25T15:48:00
+PROD-0055,Sextante Livros Modelo E745,Livros,Sextante,42.19,2023-04-29T20:04:45
+PROD-0056,Record Livros Modelo F617,Livros,Record,26.14,2023-08-22T12:23:03
+PROD-0057,Rocco Livros Modelo G731,Livros,Rocco,104.72,2023-09-05T07:42:31
+PROD-0058,Companhia das Letras Livros Modelo H664,Livros,Companhia das Letras,25.83,2023-07-30T02:00:01
+PROD-0059,Rocco Livros Modelo I648,Livros,Rocco,115.27,2023-05-27T17:01:32
+PROD-0060,Sextante Livros Modelo J283,Livros,Sextante,125.77,2023-02-24T16:58:06
+PROD-0061,Nivea Beleza Modelo A296,Beleza,Nivea,64.88,2023-11-14T17:33:16
+PROD-0062,L'Oréal Beleza Modelo B506,Beleza,L'Oréal,104.55,2023-02-10T09:23:25
+PROD-0063,Avon Beleza Modelo C813,Beleza,Avon,204.28,2023-04-26T07:19:43
+PROD-0064,Natura Beleza Modelo D978,Beleza,Natura,234.0,2023-11-29T01:48:02
+PROD-0065,Natura Beleza Modelo E486,Beleza,Natura,150.77,2023-10-10T11:30:03
+PROD-0066,Natura Beleza Modelo F184,Beleza,Natura,250.45,2023-09-13T15:54:27
+PROD-0067,L'Oréal Beleza Modelo G978,Beleza,L'Oréal,204.56,2023-02-18T12:57:33
+PROD-0068,Natura Beleza Modelo H988,Beleza,Natura,91.97,2023-12-21T13:56:36
+PROD-0069,Avon Beleza Modelo I176,Beleza,Avon,105.82,2023-12-17T20:59:17
+PROD-0070,Nivea Beleza Modelo J133,Beleza,Nivea,203.78,2023-04-02T11:59:54
+PROD-0071,Hasbro Brinquedos Modelo A312,Brinquedos,Hasbro,32.44,2023-10-28T14:09:48
+PROD-0072,Mattel Brinquedos Modelo B406,Brinquedos,Mattel,466.22,2023-03-25T18:36:15
+PROD-0073,Grow Brinquedos Modelo C498,Brinquedos,Grow,421.46,2023-12-13T12:57:34
+PROD-0074,Hasbro Brinquedos Modelo D857,Brinquedos,Hasbro,207.33,2023-03-13T16:50:44
+PROD-0075,Lego Brinquedos Modelo E454,Brinquedos,Lego,262.88,2023-01-28T19:06:27
+PROD-0076,Estrela Brinquedos Modelo F448,Brinquedos,Estrela,423.37,2023-11-06T21:49:39
+PROD-0077,Grow Brinquedos Modelo G892,Brinquedos,Grow,213.43,2023-06-17T08:01:40
+PROD-0078,Hasbro Brinquedos Modelo H561,Brinquedos,Hasbro,397.19,2023-09-09T20:14:22
+PROD-0079,Grow Brinquedos Modelo I542,Brinquedos,Grow,472.04,2023-04-06T14:43:37
+PROD-0080,Mattel Brinquedos Modelo J733,Brinquedos,Mattel,65.7,2023-06-01T10:51:15

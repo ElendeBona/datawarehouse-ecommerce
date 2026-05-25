@@ -11,26 +11,26 @@
 [![Docker](https://img.shields.io/badge/Docker-local-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 [![Plotly](https://img.shields.io/badge/Plotly-6.0-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 
+[**🚀 Ver Dashboard Online**](https://datawarehouse-ecommerce-8mykjqypxcdc5qk4pwsggc.streamlit.app/)
+
 </div>
 
 ---
 
 ![Dashboard BI](docs/screenshots/image.png)
-
 ---
 
 ## O que é este projeto?
 
 Um **Data Warehouse de e-commerce construído de ponta a ponta**, implementando as melhores práticas de Analytics Engineering com dados ingeridos em camada raw e sendo projetado para nível profissional em ambiente de prod e dev.
 
-Este projeto implementa uma **Plataforma de Dados** completa que simula o ecossistema de dados de uma grande operação de comércio eletrônico. Ele utiliza a **moderna Arquitetura Medallion (Bronze, Prata, Ouro)** modelada e mantida em um banco de dados PostgreSQL em nuvem .`dbt`
+Este projeto implementa uma **Plataforma de Dados** completa que simula o ecossistema de dados de uma grande operação de comércio eletrônico. Ele utiliza a **moderna Arquitetura Medallion (Bronze, Prata, Ouro)** modelada e mantida em um banco de dados PostgreSQL com `dbt`.
 
 O fluxo de trabalho de dados culmina em um *Dashboard Analítico* oriundo de **4 Data Marts (Vendas, Clientes, Pricing, Produto)** de maneira interativa e premium construído com o Streamlit, permitindo decisões baseadas em dados para a gestão de C nível.
 
 Este projeto demonstra práticas reais de modelagem de dados, engenharia analítica e inteligência de negócios.
 
-
-## 📋 Overview da orquestração 
+## 📋 Overview da orquestração
 
 | Dado | Volume |
 |------|--------|
@@ -41,15 +41,12 @@ Este projeto demonstra práticas reais de modelagem de dados, engenharia analít
 | Receita total simulada | R$ 31.096.132,74 |
 | Modelos dbt | 12 (4 Bronze + 4 Silver + 4 Gold) |
 
-
-## 🎯 Objetico do Projeto
-
-
+## 🎯 Objetivo do Projeto
 
 O principal objetivo deste projeto é mostrar:
 
 - Implementação da Arquitetura Medallion
-- Engenharia de Análise com DBT (Ferramenta de Construção de Dados)
+- Engenharia de Análise com DBT (Data Build Tool)
 - Integração moderna de banco de dados em nuvem (Supabase)
 - Regras de negócio complexas (Segmentação de Clientes, Elasticidade de Preços)
 - Design avançado de dashboards de UI/UX (Glassmorphism)
@@ -59,7 +56,7 @@ O principal objetivo deste projeto é mostrar:
 
 ## Arquitetura Medallion
 
-> 📊 [Ver diagrama interativo completo](<docs/meldalhao.mp4>)
+> 📊 [Ver diagrama interativo completo](docs/medalhao.gif)
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -106,10 +103,12 @@ O principal objetivo deste projeto é mostrar:
 | **Gold** | Agrega, aplica regras de negócio | Cast de tipos |
 
 ### Refino
-- **Bronze (Raw/Bruto):** Replicação direta 1:1 das tabelas operacionais de e-commerce (`vendas`, `clientes`,`produtos`,`preco_competidores`)
-- **Prata (Limpeza):** Sanitização de dados, type casting, e padronizações (ex: formatação de data) sem filtragem pesada ou joins.
-- **Ouro (Negócios/Data Marts):** Agregações complexas, lógicas de ranqueamento - ranking logic e regras de negócios projetadas para consumo direto (Vendas, Sucesso do Cliente, Produtos e Preços).
+
+- **Bronze (Raw/Bruto):** Replicação direta 1:1 das tabelas operacionais de e-commerce (`vendas`, `clientes`, `produtos`, `preco_competidores`)
+- **Prata (Limpeza):** Sanitização de dados, type casting e padronizações (ex: formatação de data) sem filtragem pesada ou joins.
+- **Ouro (Negócios/Data Marts):** Agregações complexas, lógicas de ranqueamento e regras de negócio projetadas para consumo direto (Vendas, Sucesso do Cliente, Produtos e Preços).
 - **Apresentação (Dashboard):** Otimizar e tornar visual a leitura de aplicações diretamente da camada Gold para fornecer análises em tempo real.
+
 ---
 
 ## Dashboard — 4 Data Marts
@@ -168,9 +167,8 @@ O principal objetivo deste projeto é mostrar:
 | Database | PostgreSQL (Supabase/DBeaver - Futuro) |
 | Data Processing | Pandas |
 | Dashboard UI | Streamlit |
-| Infraestrutura |  Docker Compose |
+| Infraestrutura | Docker Compose |
 | Data Visualization | Plotly Express |
-
 
 ---
 
@@ -181,7 +179,7 @@ datawarehouse-ecom/
 │
 ├── data/
 │   ├── raw/                          # CSVs + Parquets gerados
-│   └── scripts/raw.py                
+│   └── scripts/raw.py
 │
 ├── ingestion/
 │   ├── init.schema.sql               # Schemas RAW + Gold no PostgreSQL
@@ -189,7 +187,7 @@ datawarehouse-ecom/
 │
 ├── dbt/ecommerce/
 │   ├── dbt_project.yml               # Config: Bronze=view, Gold=table
-│   ├── profiles.yml                  # dev (Docker :5433) + prod 
+│   ├── profiles.yml                  # dev (Docker :5433) + prod
 │   └── models/
 │       ├── _sourcers.yml             # Fontes RAW declaradas
 │       ├── bronze/                   # 4 views (réplica fiel)
@@ -202,6 +200,7 @@ datawarehouse-ecom/
 │
 ├── dashboard/
 │   ├── app.py                        # 4 páginas · Dark Glassmorphism
+│   ├── data/                         # CSVs do Gold (deploy Streamlit Cloud)
 │   └── requirements.txt
 │
 ├── docs/
@@ -212,7 +211,7 @@ datawarehouse-ecom/
 │
 ├── .env.example
 ├── docker-compose.yml
-└── requirements.txt
+├── requirements.txt
 └── README.md                         # Documentação técnica
 ```
 
@@ -250,11 +249,11 @@ streamlit run dashboard/app.py
 
 ## Ambientes
 
-| | dev | prod |
-|-|-----|------|
-| **Banco** | PostgreSQL Docker (localhost:5433) | Supabase (cloud) |
-| **Comando dbt** | `dbt run` | `dbt run --target prod` |
-| **Credenciais** | `.env` local | variáveis de ambiente |
+|                 | dev                                | prod                    |
+|-----------------|------------------------------------|-------------------------|
+| **Banco**       | PostgreSQL Docker (localhost:5433) | Supabase (cloud)        |
+| **Comando dbt** | `dbt run`                          | `dbt run --target prod` |
+| **Credenciais** | `.env` local                       | variáveis de ambiente   |
 
 ---
 

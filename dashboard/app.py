@@ -666,11 +666,11 @@ st.sidebar.markdown("""
 st.sidebar.markdown("---")
 st.sidebar.markdown("""
 <div style="display:flex; justify-content:center; gap:8px; margin-top:12px">
-    <a href="https://github.com/edsoo" target="_blank">
+    <a href="https://github.com/elendeBona/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
              style="border-radius:6px; height:26px"/>
     </a>
-    <a href="https://linkedin.com/in/edsoo" target="_blank">
+    <a href="https://www.linkedin.com/in/elenjohann/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
              style="border-radius:6px; height:26px"/>
     </a>

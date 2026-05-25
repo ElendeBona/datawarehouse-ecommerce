@@ -1,0 +1,501 @@
+id_cliente,nome_cliente,estado,pais,data_cadastro
+CLI-00001,Ravi Lucca Costela,SP,Brasil,2022-10-09T11:15:14
+CLI-00002,Vicente Fogaça,SC,Brasil,2023-11-24T21:47:57
+CLI-00003,Asafe Nogueira,RS,Brasil,2022-02-02T17:01:05
+CLI-00004,Ravi Moraes,SP,Brasil,2023-09-09T15:01:35
+CLI-00005,Vitor da Cruz,SC,Brasil,2023-12-20T08:34:26
+CLI-00006,Calebe Garcia,RJ,Brasil,2022-10-12T08:51:55
+CLI-00007,Danilo Ribeiro,SC,Brasil,2022-06-13T04:44:27
+CLI-00008,Maria Clara Machado,SP,Brasil,2022-08-09T19:48:21
+CLI-00009,Calebe Montenegro,SP,Brasil,2022-04-10T15:22:54
+CLI-00010,Maria Laura Melo,RS,Brasil,2022-02-14T17:46:29
+CLI-00011,Dante Cassiano,MS,Brasil,2023-01-23T01:05:35
+CLI-00012,Daniela Andrade,GO,Brasil,2023-09-26T22:56:55
+CLI-00013,Bárbara Câmara,RS,Brasil,2023-12-23T19:04:02
+CLI-00014,José Miguel Fonseca,BA,Brasil,2022-03-23T09:54:14
+CLI-00015,Vinícius da Luz,RJ,Brasil,2023-04-10T09:40:53
+CLI-00016,Giovanna Azevedo,SP,Brasil,2022-12-30T09:13:42
+CLI-00017,Isabelly Fernandes,SC,Brasil,2023-12-01T10:41:04
+CLI-00018,Pedro Miguel Viana,MG,Brasil,2022-09-08T14:10:29
+CLI-00019,Bella Aragão,SP,Brasil,2023-10-18T13:44:35
+CLI-00020,Matteo Macedo,PR,Brasil,2022-02-27T10:14:52
+CLI-00021,Gael Camargo,BA,Brasil,2023-02-15T15:17:04
+CLI-00022,Rael Garcia,ES,Brasil,2023-08-04T07:56:45
+CLI-00023,Maria Helena da Costa,SP,Brasil,2023-05-27T10:25:56
+CLI-00024,Antonella Pereira,SP,Brasil,2022-05-23T11:15:47
+CLI-00025,Maria Eduarda Sousa,SC,Brasil,2023-03-15T13:57:37
+CLI-00026,Emanuella Alves,RJ,Brasil,2022-05-22T18:32:31
+CLI-00027,Nathan Sá,SC,Brasil,2022-04-23T09:09:40
+CLI-00028,Davi Miguel Aparecida,BA,Brasil,2023-03-09T14:38:04
+CLI-00029,Heloisa da Cruz,RJ,Brasil,2023-04-25T15:33:16
+CLI-00030,Vicente Pimenta,PR,Brasil,2022-04-28T03:43:56
+CLI-00031,Stella Vargas,BA,Brasil,2022-12-15T15:07:18
+CLI-00032,Kamilly Gonçalves,SP,Brasil,2022-01-04T08:46:56
+CLI-00033,Maysa Correia,MS,Brasil,2022-07-02T04:32:58
+CLI-00034,Davi Lucas Martins,PE,Brasil,2022-11-02T21:53:40
+CLI-00035,Benjamim Costa,SP,Brasil,2022-06-15T22:34:49
+CLI-00036,Carlos Eduardo Silveira,RS,Brasil,2023-05-16T18:01:07
+CLI-00037,Carolina da Cruz,PE,Brasil,2022-11-11T10:15:03
+CLI-00038,Thales Alves,PE,Brasil,2022-03-22T06:05:46
+CLI-00039,Isadora Pereira,GO,Brasil,2023-06-30T16:49:08
+CLI-00040,Lucas Gabriel Viana,PR,Brasil,2023-07-17T13:10:16
+CLI-00041,Luiza Teixeira,MT,Brasil,2023-07-07T07:48:46
+CLI-00042,Miguel Freitas,SC,Brasil,2023-02-13T14:42:41
+CLI-00043,Milena Machado,RJ,Brasil,2023-06-14T02:28:07
+CLI-00044,Oliver Guerra,SP,Brasil,2022-12-13T20:01:37
+CLI-00045,André Borges,RS,Brasil,2022-01-08T10:04:45
+CLI-00046,Henry Fernandes,SP,Brasil,2022-02-02T16:55:21
+CLI-00047,Henry Gabriel Vargas,MG,Brasil,2022-10-13T10:42:31
+CLI-00048,Gael Henrique Martins,MG,Brasil,2023-08-08T14:36:30
+CLI-00049,Nathan Pacheco,BA,Brasil,2023-02-21T15:12:06
+CLI-00050,Bryan Cavalcanti,PR,Brasil,2022-12-29T09:27:26
+CLI-00051,Natália Oliveira,PE,Brasil,2022-02-25T22:43:41
+CLI-00052,Guilherme Costa,SP,Brasil,2022-12-14T18:51:55
+CLI-00053,Vitor Hugo Pereira,SP,Brasil,2022-07-14T21:34:28
+CLI-00054,Benício Pimenta,RJ,Brasil,2022-10-13T20:29:15
+CLI-00055,Lucas Gabriel Jesus,RJ,Brasil,2023-07-18T15:06:03
+CLI-00056,Isaac das Neves,MT,Brasil,2022-08-31T20:10:26
+CLI-00057,Fernanda Correia,MG,Brasil,2023-02-15T06:57:03
+CLI-00058,Daniel Cirino,RJ,Brasil,2023-02-04T09:16:59
+CLI-00059,Olívia Machado,SP,Brasil,2023-12-15T03:46:50
+CLI-00060,Marina da Paz,SP,Brasil,2022-10-31T11:13:03
+CLI-00061,Igor da Paz,SC,Brasil,2022-02-28T12:03:37
+CLI-00062,Elisa Jesus,MG,Brasil,2023-06-28T10:10:03
+CLI-00063,Rodrigo Montenegro,PE,Brasil,2022-03-12T19:38:04
+CLI-00064,Igor Dias,RJ,Brasil,2023-08-07T11:15:37
+CLI-00065,Pietro Rocha,RS,Brasil,2023-03-06T10:42:37
+CLI-00066,Stephany Azevedo,DF,Brasil,2022-07-29T14:42:45
+CLI-00067,Melissa Porto,SP,Brasil,2023-02-10T07:08:42
+CLI-00068,Clarice Castro,MG,Brasil,2022-03-16T18:00:29
+CLI-00069,Ravy da Mata,SP,Brasil,2022-08-07T05:32:16
+CLI-00070,Mateus Barbosa,DF,Brasil,2022-03-12T23:56:15
+CLI-00071,Luiza Cardoso,SP,Brasil,2023-03-25T18:53:34
+CLI-00072,Hellena da Mata,RS,Brasil,2023-11-01T09:33:00
+CLI-00073,Maria Vitória Nascimento,DF,Brasil,2022-04-17T00:56:08
+CLI-00074,Giovanna Castro,SP,Brasil,2022-04-20T19:47:35
+CLI-00075,Samuel Machado,SP,Brasil,2023-09-12T17:13:45
+CLI-00076,Maria Isis Vieira,SP,Brasil,2023-10-12T17:54:16
+CLI-00077,Clara Andrade,SP,Brasil,2022-02-22T18:05:40
+CLI-00078,Maya Campos,GO,Brasil,2022-02-15T05:00:21
+CLI-00079,Enzo Gabriel Rocha,PR,Brasil,2022-09-26T11:10:47
+CLI-00080,Ana Luiza Fernandes,RS,Brasil,2023-03-14T07:35:00
+CLI-00081,João Rodrigues,SP,Brasil,2023-12-09T19:57:09
+CLI-00082,Enzo Gabriel Caldeira,GO,Brasil,2023-08-20T16:35:09
+CLI-00083,Stephany das Neves,SP,Brasil,2022-11-12T11:23:57
+CLI-00084,Davi Luiz Silveira,CE,Brasil,2022-08-04T04:43:15
+CLI-00085,José Pedro Cassiano,RJ,Brasil,2023-07-28T10:56:55
+CLI-00086,Sara Guerra,MS,Brasil,2022-06-08T11:59:59
+CLI-00087,Benicio Andrade,PE,Brasil,2022-07-01T17:56:26
+CLI-00088,Dom Cunha,SP,Brasil,2022-12-07T16:50:59
+CLI-00089,Mariane Sampaio,BA,Brasil,2022-09-12T20:17:10
+CLI-00090,João Vitor Silveira,RJ,Brasil,2022-02-09T14:54:30
+CLI-00091,Luiz Otávio Sampaio,SP,Brasil,2023-04-17T07:22:19
+CLI-00092,Matteo Cassiano,SP,Brasil,2023-11-07T17:12:25
+CLI-00093,Ana Freitas,SP,Brasil,2022-03-13T18:49:17
+CLI-00094,Mirella Fogaça,PR,Brasil,2023-02-14T15:43:53
+CLI-00095,Beatriz da Mata,DF,Brasil,2022-04-29T18:56:16
+CLI-00096,Mateus Lopes,RS,Brasil,2022-09-29T14:02:06
+CLI-00097,Bianca Mendes,RJ,Brasil,2022-11-18T14:27:38
+CLI-00098,Kevin Duarte,RJ,Brasil,2023-08-14T12:12:16
+CLI-00099,Valentim Teixeira,SC,Brasil,2022-01-02T01:33:59
+CLI-00100,Davi Miguel Freitas,RJ,Brasil,2022-03-13T06:42:58
+CLI-00101,Aurora Duarte,RS,Brasil,2023-11-11T02:54:07
+CLI-00102,Luara da Conceição,MG,Brasil,2023-11-14T16:26:20
+CLI-00103,Raquel da Cruz,PR,Brasil,2023-07-22T11:08:12
+CLI-00104,Maria Luiza Nascimento,PR,Brasil,2023-01-24T14:43:47
+CLI-00105,Rhavi Rezende,RS,Brasil,2022-11-05T20:25:35
+CLI-00106,Brayan Porto,RJ,Brasil,2022-08-04T10:27:50
+CLI-00107,Ana Beatriz Moraes,MG,Brasil,2023-03-29T12:43:13
+CLI-00108,Milena da Luz,BA,Brasil,2022-06-23T17:42:05
+CLI-00109,Marina Nogueira,MG,Brasil,2023-10-11T09:39:21
+CLI-00110,Davi Lucas Lopes,GO,Brasil,2022-08-29T05:43:19
+CLI-00111,Davi Guerra,BA,Brasil,2022-05-31T10:01:02
+CLI-00112,Ryan da Cruz,MS,Brasil,2023-09-18T08:54:49
+CLI-00113,Gustavo Henrique Aragão,MG,Brasil,2023-10-07T21:36:12
+CLI-00114,Mirella da Costa,MG,Brasil,2022-09-07T18:09:41
+CLI-00115,Augusto Fernandes,CE,Brasil,2022-04-20T16:49:27
+CLI-00116,Erick Abreu,SP,Brasil,2023-12-14T20:33:29
+CLI-00117,Heitor Cardoso,RS,Brasil,2022-05-05T18:29:08
+CLI-00118,Ágatha Fogaça,PR,Brasil,2023-07-27T09:38:20
+CLI-00119,Daniela Barbosa,RS,Brasil,2023-06-01T20:27:53
+CLI-00120,Alexia Rios,CE,Brasil,2023-05-02T14:28:16
+CLI-00121,Renan Martins,GO,Brasil,2022-10-11T18:49:49
+CLI-00122,Anna Liz das Neves,RS,Brasil,2022-10-09T20:28:04
+CLI-00123,Luísa da Paz,SP,Brasil,2022-12-10T11:20:57
+CLI-00124,Henry Gabriel da Paz,SP,Brasil,2022-08-25T06:24:44
+CLI-00125,João Lucas Rodrigues,SC,Brasil,2022-03-07T09:26:26
+CLI-00126,Emanuella Silveira,MG,Brasil,2023-03-02T12:03:13
+CLI-00127,Mariana Cardoso,RJ,Brasil,2023-08-22T19:44:01
+CLI-00128,Maria Alice Albuquerque,MG,Brasil,2022-12-27T19:19:48
+CLI-00129,Isadora Costa,PE,Brasil,2023-03-06T00:34:47
+CLI-00130,Apollo Pires,MG,Brasil,2022-10-07T14:27:31
+CLI-00131,Danilo Barbosa,RJ,Brasil,2023-11-16T12:43:51
+CLI-00132,Eloá Macedo,SC,Brasil,2023-04-24T09:58:08
+CLI-00133,Danilo Moreira,CE,Brasil,2023-08-30T07:36:42
+CLI-00134,Enzo Gabriel Camargo,SP,Brasil,2023-03-15T11:08:55
+CLI-00135,Lara Santos,SP,Brasil,2022-09-24T21:24:20
+CLI-00136,Bruno Pires,MG,Brasil,2022-12-12T11:48:56
+CLI-00137,Ana Carolina das Neves,SP,Brasil,2023-03-08T14:16:53
+CLI-00138,Miguel da Luz,MG,Brasil,2023-07-07T17:03:22
+CLI-00139,Gael Costela,PR,Brasil,2023-10-30T11:02:48
+CLI-00140,Ian da Cruz,DF,Brasil,2022-07-24T22:53:01
+CLI-00141,Ravi Lucca Viana,SP,Brasil,2023-04-30T22:42:07
+CLI-00142,Erick da Cruz,MG,Brasil,2022-09-20T10:49:23
+CLI-00143,José Pedro Cirino,RS,Brasil,2022-04-28T14:49:52
+CLI-00144,Yan Sousa,MT,Brasil,2022-04-21T10:37:01
+CLI-00145,Olivia Fonseca,RS,Brasil,2023-01-20T10:25:45
+CLI-00146,Luigi Guerra,SP,Brasil,2023-12-09T02:53:40
+CLI-00147,João Vitor Camargo,SP,Brasil,2022-11-05T15:54:43
+CLI-00148,Otávio Machado,BA,Brasil,2023-08-03T14:50:02
+CLI-00149,Nina Castro,MG,Brasil,2023-11-09T03:23:04
+CLI-00150,Jade Sales,SP,Brasil,2023-03-07T10:52:31
+CLI-00151,Gustavo Henrique Pereira,RJ,Brasil,2023-01-06T20:40:57
+CLI-00152,Eloá Nogueira,SC,Brasil,2023-03-22T09:11:46
+CLI-00153,Hadassa Cavalcanti,RS,Brasil,2023-07-06T08:49:30
+CLI-00154,Isabel da Cunha,RJ,Brasil,2023-08-30T14:17:20
+CLI-00155,Vitor Gabriel Castro,GO,Brasil,2022-03-30T22:17:56
+CLI-00156,Luiza Ferreira,SP,Brasil,2023-04-21T09:36:39
+CLI-00157,Maria Júlia Monteiro,RJ,Brasil,2023-05-22T16:54:20
+CLI-00158,Davi Lucca Ferreira,MG,Brasil,2022-12-30T18:51:16
+CLI-00159,Maitê Garcia,SP,Brasil,2023-09-03T09:44:56
+CLI-00160,Aurora Freitas,RS,Brasil,2023-06-14T17:12:05
+CLI-00161,João Vitor Oliveira,SC,Brasil,2023-05-16T11:35:48
+CLI-00162,Murilo da Rocha,PR,Brasil,2023-10-24T16:45:31
+CLI-00163,Raquel da Rocha,BA,Brasil,2022-04-06T16:18:14
+CLI-00164,Isadora Brito,PR,Brasil,2022-11-10T14:42:37
+CLI-00165,Laura da Cruz,MG,Brasil,2023-06-28T06:22:27
+CLI-00166,Lunna Rezende,RJ,Brasil,2023-04-10T19:17:19
+CLI-00167,Mirella Cardoso,SP,Brasil,2022-07-17T11:20:07
+CLI-00168,Arthur Gabriel Fonseca,SP,Brasil,2023-05-11T09:17:46
+CLI-00169,Ana Liz Rocha,MS,Brasil,2022-07-18T02:18:14
+CLI-00170,Lorena Freitas,SP,Brasil,2022-01-15T15:45:34
+CLI-00171,Thiago Ferreira,SP,Brasil,2022-02-25T16:35:18
+CLI-00172,Kaique Gomes,PR,Brasil,2023-05-18T01:06:55
+CLI-00173,Oliver Duarte,RS,Brasil,2023-04-26T14:30:28
+CLI-00174,Maria Laura Oliveira,SP,Brasil,2022-02-22T09:16:55
+CLI-00175,Manuella Sá,SP,Brasil,2022-03-08T16:25:31
+CLI-00176,Vicente Nascimento,RS,Brasil,2023-12-04T09:03:09
+CLI-00177,Diego Vasconcelos,GO,Brasil,2022-11-08T17:05:15
+CLI-00178,Luiz Gustavo Santos,RS,Brasil,2023-03-03T12:38:38
+CLI-00179,Ravi Araújo,BA,Brasil,2023-01-25T21:28:58
+CLI-00180,Clarice Cavalcanti,SP,Brasil,2023-08-26T07:27:19
+CLI-00181,Gael Guerra,RS,Brasil,2022-04-12T11:48:13
+CLI-00182,Ravi Lucca Camargo,SP,Brasil,2022-03-25T06:10:15
+CLI-00183,Benjamim Vargas,RS,Brasil,2022-06-10T20:00:26
+CLI-00184,Sarah Machado,PR,Brasil,2023-04-27T20:18:02
+CLI-00185,Arthur Miguel Carvalho,SP,Brasil,2022-10-17T10:44:55
+CLI-00186,Helena Cunha,SP,Brasil,2022-08-28T16:59:16
+CLI-00187,Arthur Carvalho,RJ,Brasil,2023-07-12T19:14:41
+CLI-00188,Heitor Peixoto,CE,Brasil,2022-05-26T15:04:03
+CLI-00189,Marcos Vinicius Pires,BA,Brasil,2023-09-02T14:47:52
+CLI-00190,Natália Barbosa,RJ,Brasil,2023-04-25T09:44:19
+CLI-00191,Maria Helena Freitas,DF,Brasil,2023-05-28T06:34:31
+CLI-00192,Bruna Melo,SP,Brasil,2022-02-10T20:56:27
+CLI-00193,Cecilia Silveira,RS,Brasil,2022-01-27T20:05:14
+CLI-00194,Davi Correia,PA,Brasil,2023-11-20T16:52:17
+CLI-00195,Apollo Montenegro,BA,Brasil,2022-06-29T11:30:33
+CLI-00196,Isabel Lopes,ES,Brasil,2022-07-05T11:37:27
+CLI-00197,Mariana Cardoso,MT,Brasil,2023-04-27T17:22:26
+CLI-00198,Catarina Casa Grande,RJ,Brasil,2022-04-18T20:54:10
+CLI-00199,Ana Laura Macedo,RJ,Brasil,2023-05-23T20:18:42
+CLI-00200,Hadassa da Paz,GO,Brasil,2023-07-18T18:02:29
+CLI-00201,Thales Freitas,RJ,Brasil,2022-11-28T16:07:49
+CLI-00202,Mariah da Luz,PE,Brasil,2022-01-02T05:42:55
+CLI-00203,Catarina Marques,RJ,Brasil,2022-07-12T08:33:23
+CLI-00204,Ana Rezende,RS,Brasil,2022-02-22T20:13:17
+CLI-00205,Vicente Fonseca,ES,Brasil,2023-03-25T15:56:44
+CLI-00206,Jade Oliveira,SP,Brasil,2023-10-08T00:38:51
+CLI-00207,Yago Aragão,SC,Brasil,2022-11-15T06:35:00
+CLI-00208,Lívia Correia,SP,Brasil,2022-04-27T16:29:07
+CLI-00209,Henry Macedo,MG,Brasil,2022-10-26T00:32:45
+CLI-00210,Caroline Correia,RJ,Brasil,2023-05-10T08:30:15
+CLI-00211,Maria Alice Vieira,RS,Brasil,2023-01-28T15:12:58
+CLI-00212,Vinicius Peixoto,PE,Brasil,2022-10-10T17:49:50
+CLI-00213,Rafaela Guerra,RJ,Brasil,2023-06-04T16:17:52
+CLI-00214,Bruno Sousa,SP,Brasil,2022-11-02T09:53:37
+CLI-00215,Vitória Sousa,PE,Brasil,2023-04-03T17:34:30
+CLI-00216,Clarice Silveira,RJ,Brasil,2023-07-11T09:24:29
+CLI-00217,Hellena Abreu,PE,Brasil,2023-12-16T11:15:36
+CLI-00218,Emanuella Mendes,SP,Brasil,2023-02-25T17:02:20
+CLI-00219,Fernanda Nunes,SC,Brasil,2023-01-26T16:24:42
+CLI-00220,Thomas Rezende,MG,Brasil,2022-02-07T19:08:32
+CLI-00221,Kamilly Duarte,PE,Brasil,2023-03-27T16:06:33
+CLI-00222,Julia Melo,SP,Brasil,2022-05-28T15:26:55
+CLI-00223,Benjamim Siqueira,SP,Brasil,2022-09-29T06:21:39
+CLI-00224,Ana Lívia Mendes,PR,Brasil,2022-12-03T11:54:43
+CLI-00225,Olívia da Rosa,MT,Brasil,2023-10-04T10:45:56
+CLI-00226,Clara Fernandes,PE,Brasil,2022-02-06T10:39:04
+CLI-00227,Nicolas Castro,PR,Brasil,2022-10-22T22:14:47
+CLI-00228,Carlos Eduardo Pacheco,RJ,Brasil,2022-04-11T12:48:40
+CLI-00229,Enrico da Cruz,RJ,Brasil,2023-12-12T20:19:57
+CLI-00230,Ravi Rodrigues,SP,Brasil,2022-02-27T16:18:22
+CLI-00231,Bárbara Ribeiro,RJ,Brasil,2022-09-08T18:33:26
+CLI-00232,Leandro da Rocha,SP,Brasil,2022-03-22T14:39:55
+CLI-00233,Sofia Campos,RS,Brasil,2022-09-04T15:31:58
+CLI-00234,Gabriel da Conceição,SP,Brasil,2023-10-16T14:16:29
+CLI-00235,Maria Vitória Ribeiro,PR,Brasil,2023-04-22T09:57:18
+CLI-00236,Vinicius Camargo,SP,Brasil,2022-12-20T17:37:19
+CLI-00237,Emanuelly Costela,PR,Brasil,2023-04-13T10:54:19
+CLI-00238,Yan Porto,PA,Brasil,2023-05-10T01:06:15
+CLI-00239,Letícia Sales,RS,Brasil,2023-08-12T16:18:44
+CLI-00240,Brenda Brito,SP,Brasil,2023-11-06T09:25:17
+CLI-00241,Pedro Miguel Souza,RS,Brasil,2023-12-04T21:49:47
+CLI-00242,José Oliveira,ES,Brasil,2023-05-24T21:53:57
+CLI-00243,Ana Júlia da Cruz,BA,Brasil,2022-08-24T20:38:51
+CLI-00244,Emanuelly Gonçalves,SP,Brasil,2022-07-14T11:39:16
+CLI-00245,Yago Duarte,RS,Brasil,2023-10-05T01:41:02
+CLI-00246,Gabrielly Cavalcante,BA,Brasil,2022-02-04T20:37:23
+CLI-00247,Juan Correia,SP,Brasil,2022-10-30T12:20:47
+CLI-00248,Brenda Nunes,SP,Brasil,2022-05-16T22:50:34
+CLI-00249,Maya Caldeira,MG,Brasil,2022-10-07T22:53:10
+CLI-00250,Evelyn Fernandes,ES,Brasil,2023-05-09T19:51:18
+CLI-00251,Melina Borges,BA,Brasil,2023-04-25T10:04:09
+CLI-00252,Yago Correia,PE,Brasil,2023-11-22T11:25:54
+CLI-00253,Laura Moraes,SP,Brasil,2023-02-09T19:00:16
+CLI-00254,Théo Aparecida,MG,Brasil,2023-11-20T11:47:43
+CLI-00255,Elisa Macedo,RS,Brasil,2023-10-16T08:23:06
+CLI-00256,Isaac Albuquerque,MG,Brasil,2023-09-27T15:56:35
+CLI-00257,Catarina Lima,ES,Brasil,2022-08-15T21:41:04
+CLI-00258,Valentina Viana,CE,Brasil,2022-11-06T17:41:26
+CLI-00259,Brayan Mendes,SP,Brasil,2022-02-08T15:19:31
+CLI-00260,Luiz Miguel Gomes,SP,Brasil,2023-07-05T06:08:24
+CLI-00261,Isabelly Cassiano,RJ,Brasil,2023-12-15T16:34:26
+CLI-00262,Arthur Gabriel Pereira,CE,Brasil,2023-11-02T23:06:53
+CLI-00263,Cecilia Rios,RS,Brasil,2022-10-14T07:02:44
+CLI-00264,Stephany Martins,SP,Brasil,2023-04-01T14:15:54
+CLI-00265,Luana Sampaio,SP,Brasil,2023-12-04T20:23:34
+CLI-00266,Laura Oliveira,SP,Brasil,2022-10-10T17:12:07
+CLI-00267,Esther da Cunha,SP,Brasil,2022-08-06T17:41:40
+CLI-00268,Luiz Otávio Souza,SP,Brasil,2022-12-08T17:15:08
+CLI-00269,Dom Monteiro,SP,Brasil,2023-07-22T11:13:37
+CLI-00270,Luiz Gustavo Rodrigues,GO,Brasil,2022-08-27T10:21:49
+CLI-00271,José Miguel Machado,BA,Brasil,2023-09-03T18:00:17
+CLI-00272,João Gabriel Pastor,MS,Brasil,2023-07-08T18:16:51
+CLI-00273,Leonardo Moreira,SP,Brasil,2022-01-27T19:08:00
+CLI-00274,Clarice Rodrigues,BA,Brasil,2022-09-01T20:37:20
+CLI-00275,Gael Silva,SP,Brasil,2022-02-23T14:08:47
+CLI-00276,Júlia Porto,MG,Brasil,2022-03-07T14:30:28
+CLI-00277,Marina Nascimento,MG,Brasil,2022-04-22T18:28:32
+CLI-00278,Nicolas Abreu,DF,Brasil,2022-02-14T16:46:50
+CLI-00279,Maria Eduarda Moreira,MG,Brasil,2022-02-01T17:03:30
+CLI-00280,Lara Freitas,RJ,Brasil,2022-04-21T18:31:45
+CLI-00281,Carolina Camargo,SP,Brasil,2022-03-24T20:20:38
+CLI-00282,Rhavi da Costa,SP,Brasil,2022-10-09T11:39:40
+CLI-00283,Antonella Viana,RJ,Brasil,2023-09-04T11:33:18
+CLI-00284,Juliana Novaes,MG,Brasil,2023-03-17T06:06:50
+CLI-00285,Luan Cassiano,PE,Brasil,2023-10-29T15:56:49
+CLI-00286,Theodoro Novaes,RJ,Brasil,2022-08-22T02:26:21
+CLI-00287,Natália Cavalcanti,RJ,Brasil,2022-04-08T13:20:27
+CLI-00288,Ayla Lopes,PR,Brasil,2023-01-19T14:09:43
+CLI-00289,Ágatha Rodrigues,SP,Brasil,2022-03-29T10:05:27
+CLI-00290,Eduardo Viana,SC,Brasil,2023-01-17T15:51:08
+CLI-00291,Marcelo das Neves,RS,Brasil,2023-07-30T02:35:21
+CLI-00292,Bernardo Aparecida,RJ,Brasil,2023-11-13T02:48:27
+CLI-00293,Isaque Campos,MT,Brasil,2023-09-07T19:19:22
+CLI-00294,Anthony Andrade,RS,Brasil,2022-08-06T11:09:42
+CLI-00295,Raquel Barros,SP,Brasil,2022-04-21T07:22:54
+CLI-00296,Maria Vitória Almeida,SP,Brasil,2022-10-13T14:36:14
+CLI-00297,Vitória Costela,GO,Brasil,2023-09-29T18:39:43
+CLI-00298,Ravi Lucca Martins,RS,Brasil,2023-11-05T09:53:44
+CLI-00299,Maria Vitória Marques,SP,Brasil,2022-10-07T16:44:48
+CLI-00300,Bárbara Dias,ES,Brasil,2022-12-26T05:00:11
+CLI-00301,Daniel Sousa,RS,Brasil,2023-02-15T03:04:09
+CLI-00302,Carlos Eduardo da Conceição,SP,Brasil,2023-06-28T14:13:24
+CLI-00303,Catarina Rios,MG,Brasil,2022-06-11T14:23:19
+CLI-00304,Vitória Martins,BA,Brasil,2023-08-05T16:38:05
+CLI-00305,Caio Jesus,SP,Brasil,2023-09-25T17:03:43
+CLI-00306,Benjamim Farias,SP,Brasil,2023-11-09T22:27:31
+CLI-00307,Mirella Araújo,RJ,Brasil,2022-08-09T14:48:32
+CLI-00308,Pedro Henrique Oliveira,RJ,Brasil,2022-04-24T11:18:43
+CLI-00309,Maria Eduarda da Mata,MG,Brasil,2022-11-12T18:02:14
+CLI-00310,Maria Vitória da Costa,MS,Brasil,2022-02-26T10:00:13
+CLI-00311,Melina Cavalcanti,DF,Brasil,2022-05-21T13:48:16
+CLI-00312,Esther Dias,RJ,Brasil,2022-01-08T05:31:47
+CLI-00313,Isadora Siqueira,SP,Brasil,2023-01-25T01:34:45
+CLI-00314,Pedro Vargas,MG,Brasil,2023-11-16T22:51:22
+CLI-00315,Renan Sá,RJ,Brasil,2022-02-13T19:27:01
+CLI-00316,Luiza Viana,ES,Brasil,2022-11-17T17:36:27
+CLI-00317,Maria Helena Barbosa,SC,Brasil,2023-03-04T12:18:07
+CLI-00318,Giovanna Andrade,SP,Brasil,2022-11-29T09:10:51
+CLI-00319,Manuella Pimenta,GO,Brasil,2023-01-06T08:05:27
+CLI-00320,Luiz Miguel Lopes,SP,Brasil,2023-08-27T10:25:33
+CLI-00321,Thales Nogueira,RJ,Brasil,2022-11-14T15:47:21
+CLI-00322,Luan Vasconcelos,RJ,Brasil,2022-06-22T17:04:32
+CLI-00323,Yuri Montenegro,MG,Brasil,2022-07-18T16:57:49
+CLI-00324,Marina das Neves,RJ,Brasil,2023-10-23T10:52:09
+CLI-00325,Valentim Camargo,SP,Brasil,2022-09-20T21:12:11
+CLI-00326,Matheus Porto,BA,Brasil,2023-11-03T17:04:11
+CLI-00327,Maria Cecília Mendonça,MG,Brasil,2023-08-01T15:48:37
+CLI-00328,Ágatha Farias,PR,Brasil,2023-08-02T15:41:40
+CLI-00329,Cecília Castro,PE,Brasil,2023-10-05T12:20:09
+CLI-00330,Valentina Teixeira,SP,Brasil,2023-03-29T10:40:19
+CLI-00331,Aylla Gonçalves,RS,Brasil,2022-12-27T11:32:04
+CLI-00332,Pietra da Luz,MG,Brasil,2022-02-08T18:03:23
+CLI-00333,Raquel da Mota,SP,Brasil,2022-04-03T01:39:38
+CLI-00334,Cecília das Neves,MG,Brasil,2023-07-22T07:50:47
+CLI-00335,Lucca Cavalcanti,RJ,Brasil,2023-08-09T03:41:12
+CLI-00336,Sofia Rios,RS,Brasil,2023-05-29T02:09:03
+CLI-00337,Olivia Duarte,SP,Brasil,2022-12-18T19:45:05
+CLI-00338,Luiz Fernando Barros,SP,Brasil,2023-12-26T17:28:28
+CLI-00339,Luiz Henrique Pires,RJ,Brasil,2022-10-17T14:24:26
+CLI-00340,Sara Azevedo,PR,Brasil,2022-02-23T06:50:40
+CLI-00341,Olívia Mendes,SP,Brasil,2022-04-07T14:35:43
+CLI-00342,Maria Julia Sousa,SP,Brasil,2023-11-04T14:58:38
+CLI-00343,João Guerra,RJ,Brasil,2023-08-20T09:42:09
+CLI-00344,Marina Cassiano,RJ,Brasil,2023-11-03T13:44:42
+CLI-00345,Emilly Casa Grande,SP,Brasil,2023-12-27T12:05:19
+CLI-00346,Valentina Almeida,PR,Brasil,2022-12-03T16:52:08
+CLI-00347,Joaquim Fonseca,PR,Brasil,2023-03-10T16:32:23
+CLI-00348,Brayan Cirino,RJ,Brasil,2022-07-04T03:13:21
+CLI-00349,Cecilia Fernandes,SP,Brasil,2022-05-21T11:09:04
+CLI-00350,Maria Sophia Almeida,GO,Brasil,2022-04-14T16:32:49
+CLI-00351,Dom Vieira,PR,Brasil,2023-09-25T14:08:38
+CLI-00352,Joana Andrade,SP,Brasil,2022-07-05T19:53:44
+CLI-00353,Eduardo Ferreira,SC,Brasil,2022-02-14T16:26:23
+CLI-00354,Davi Lucca Campos,MT,Brasil,2023-09-18T08:18:48
+CLI-00355,Amanda Dias,SP,Brasil,2022-09-02T04:19:51
+CLI-00356,Maria Liz Cardoso,CE,Brasil,2022-07-18T16:23:43
+CLI-00357,Jade Leão,MG,Brasil,2022-10-16T01:49:24
+CLI-00358,Nicole Fonseca,MT,Brasil,2022-07-24T15:51:38
+CLI-00359,Lucas Costa,PE,Brasil,2022-02-23T21:41:30
+CLI-00360,Vitória Nascimento,RS,Brasil,2022-04-16T15:45:54
+CLI-00361,Ravy Borges,SP,Brasil,2022-06-14T12:17:28
+CLI-00362,Lucas Fonseca,GO,Brasil,2022-04-04T16:58:14
+CLI-00363,Ágatha da Rocha,CE,Brasil,2022-01-28T13:26:03
+CLI-00364,Mariane Porto,MG,Brasil,2022-08-30T15:24:05
+CLI-00365,Maysa Nunes,SP,Brasil,2022-11-23T21:59:06
+CLI-00366,Stella Brito,BA,Brasil,2022-05-21T12:02:18
+CLI-00367,Letícia Silva,PR,Brasil,2022-05-23T22:48:45
+CLI-00368,Maysa da Mata,RJ,Brasil,2022-01-06T20:57:05
+CLI-00369,Brayan Lopes,SP,Brasil,2022-06-03T09:35:46
+CLI-00370,Heloisa Nunes,SP,Brasil,2022-10-23T04:15:19
+CLI-00371,Davi Lucca Almeida,SP,Brasil,2023-03-06T06:40:50
+CLI-00372,Eloá Pereira,SP,Brasil,2023-05-27T01:38:34
+CLI-00373,Theodoro Novaes,PR,Brasil,2023-08-12T06:15:45
+CLI-00374,Enzo Gabriel Marques,SP,Brasil,2022-01-02T16:39:22
+CLI-00375,Thomas da Mata,RS,Brasil,2022-07-11T04:42:42
+CLI-00376,Pietro Sá,MG,Brasil,2023-01-05T11:04:33
+CLI-00377,Vitor Gabriel Cavalcanti,RJ,Brasil,2023-04-27T19:02:40
+CLI-00378,Isabelly Garcia,MS,Brasil,2022-09-17T01:47:01
+CLI-00379,Caroline Siqueira,BA,Brasil,2022-12-20T19:15:46
+CLI-00380,Enrico Gonçalves,BA,Brasil,2022-12-07T10:08:02
+CLI-00381,Ana Lívia Rodrigues,MG,Brasil,2023-10-21T07:11:53
+CLI-00382,Olívia Barros,MS,Brasil,2023-05-06T17:40:11
+CLI-00383,Vinícius Cardoso,SP,Brasil,2023-04-14T16:02:18
+CLI-00384,Luigi Dias,SP,Brasil,2022-07-24T20:56:02
+CLI-00385,Evelyn Campos,DF,Brasil,2023-06-12T17:25:52
+CLI-00386,Mirella da Rosa,SP,Brasil,2023-10-25T18:12:18
+CLI-00387,Isadora Peixoto,PE,Brasil,2022-02-18T10:55:41
+CLI-00388,Ana Lívia Dias,SP,Brasil,2023-01-12T09:27:56
+CLI-00389,Maysa Vieira,SC,Brasil,2023-01-31T17:21:11
+CLI-00390,Lívia Dias,PR,Brasil,2023-01-12T18:59:51
+CLI-00391,Caroline Peixoto,BA,Brasil,2023-03-11T23:05:27
+CLI-00392,Rhavi Teixeira,MG,Brasil,2022-11-25T12:06:05
+CLI-00393,Luiza Guerra,PR,Brasil,2022-11-10T11:28:38
+CLI-00394,Ana Beatriz Ramos,SP,Brasil,2023-03-31T18:22:28
+CLI-00395,Gael Garcia,SC,Brasil,2022-12-28T11:39:27
+CLI-00396,Raquel da Luz,PR,Brasil,2022-02-28T21:04:42
+CLI-00397,Mariah Guerra,RJ,Brasil,2023-11-27T19:10:01
+CLI-00398,Benicio Farias,GO,Brasil,2023-11-26T13:50:28
+CLI-00399,Ryan Leão,SP,Brasil,2022-08-30T17:49:41
+CLI-00400,Maria Alice Abreu,RJ,Brasil,2023-08-04T17:02:38
+CLI-00401,Noah Almeida,PR,Brasil,2023-01-15T06:23:28
+CLI-00402,Ravi Ferreira,RS,Brasil,2023-06-27T20:23:25
+CLI-00403,Olivia Cirino,PR,Brasil,2022-09-13T14:07:01
+CLI-00404,Brayan Oliveira,MG,Brasil,2023-02-01T19:58:35
+CLI-00405,Breno Cunha,SP,Brasil,2022-09-24T11:45:28
+CLI-00406,Yago Andrade,PA,Brasil,2022-10-20T20:44:58
+CLI-00407,Juliana Dias,SP,Brasil,2022-05-19T12:54:04
+CLI-00408,Manuela Fogaça,SP,Brasil,2024-01-01T00:28:05
+CLI-00409,Ana Sophia Câmara,PR,Brasil,2023-12-28T20:04:35
+CLI-00410,Liz Pastor,CE,Brasil,2022-06-11T06:45:45
+CLI-00411,Davi Luiz Rios,BA,Brasil,2023-06-05T11:14:07
+CLI-00412,Bernardo Castro,BA,Brasil,2022-08-31T21:50:31
+CLI-00413,Yan Cardoso,RJ,Brasil,2023-08-10T21:23:29
+CLI-00414,Pietro Duarte,RS,Brasil,2022-03-30T15:04:19
+CLI-00415,Hellena da Cunha,PA,Brasil,2023-05-06T16:33:26
+CLI-00416,Maria Alice Silva,GO,Brasil,2022-03-17T13:08:20
+CLI-00417,Rael Martins,RJ,Brasil,2023-11-28T10:33:22
+CLI-00418,Arthur Santos,PE,Brasil,2023-07-19T11:40:37
+CLI-00419,Liam Fogaça,BA,Brasil,2022-05-13T16:27:32
+CLI-00420,Gabriel Sousa,GO,Brasil,2023-06-15T17:09:19
+CLI-00421,Pedro Henrique Garcia,SP,Brasil,2023-12-28T18:14:22
+CLI-00422,Nicole Pinto,GO,Brasil,2022-09-14T18:12:40
+CLI-00423,Ágatha Carvalho,SP,Brasil,2022-11-07T06:39:34
+CLI-00424,Rodrigo Carvalho,MG,Brasil,2022-06-22T14:37:37
+CLI-00425,Lucas Gabriel Mendonça,SP,Brasil,2023-10-02T04:46:57
+CLI-00426,Olivia Costa,GO,Brasil,2023-08-01T15:02:52
+CLI-00427,Mathias Mendes,SP,Brasil,2023-10-19T13:49:36
+CLI-00428,Maria Isis Silveira,PR,Brasil,2023-08-09T20:26:39
+CLI-00429,Apollo Camargo,MG,Brasil,2023-10-05T11:34:18
+CLI-00430,Nina Araújo,MG,Brasil,2023-12-03T07:25:19
+CLI-00431,Ayla Azevedo,SP,Brasil,2022-03-03T08:10:28
+CLI-00432,Melissa Garcia,MG,Brasil,2022-07-28T18:21:38
+CLI-00433,Alexandre Moreira,RJ,Brasil,2022-11-23T16:46:55
+CLI-00434,Vitória Martins,MS,Brasil,2022-05-14T06:48:23
+CLI-00435,Luigi da Luz,RJ,Brasil,2023-04-23T05:07:17
+CLI-00436,Maria Cecília Sales,SP,Brasil,2022-04-10T17:03:18
+CLI-00437,Hellena Moreira,PE,Brasil,2023-03-05T05:15:55
+CLI-00438,Samuel Brito,GO,Brasil,2023-08-15T19:46:20
+CLI-00439,Kevin Peixoto,BA,Brasil,2023-05-26T17:32:29
+CLI-00440,Ana Clara Moraes,PE,Brasil,2023-05-25T05:01:05
+CLI-00441,Ana Beatriz Montenegro,MG,Brasil,2022-09-04T05:13:37
+CLI-00442,Helena Jesus,SP,Brasil,2022-10-16T23:31:38
+CLI-00443,Ágatha da Luz,SP,Brasil,2022-01-09T11:54:06
+CLI-00444,Maria Laura Ferreira,SP,Brasil,2022-09-28T11:46:23
+CLI-00445,Elisa Camargo,RJ,Brasil,2023-02-15T18:03:36
+CLI-00446,Yuri Albuquerque,RJ,Brasil,2022-10-23T21:04:24
+CLI-00447,Maria Sophia da Costa,BA,Brasil,2022-10-14T23:52:39
+CLI-00448,Lorenzo Cunha,SP,Brasil,2022-04-10T17:25:23
+CLI-00449,Maria Vitória da Cruz,RS,Brasil,2023-01-10T11:48:09
+CLI-00450,Asafe Brito,RS,Brasil,2023-02-16T05:32:02
+CLI-00451,Davi Lucas Farias,SP,Brasil,2024-01-01T18:21:51
+CLI-00452,Maria Clara Monteiro,MG,Brasil,2022-06-02T15:38:57
+CLI-00453,Vitor Gabriel Borges,RJ,Brasil,2023-09-20T12:20:10
+CLI-00454,Eloah Rodrigues,PA,Brasil,2022-11-03T20:37:21
+CLI-00455,Ana Carolina Ferreira,SC,Brasil,2022-11-03T06:30:52
+CLI-00456,Dante Sousa,RJ,Brasil,2023-11-21T14:07:26
+CLI-00457,Natália Marques,BA,Brasil,2023-12-06T00:40:01
+CLI-00458,Maya Aragão,SP,Brasil,2023-11-03T13:50:49
+CLI-00459,Asafe Cavalcanti,SC,Brasil,2023-08-21T03:30:10
+CLI-00460,Ísis Almeida,SP,Brasil,2023-11-29T07:15:02
+CLI-00461,Danilo Guerra,SP,Brasil,2023-03-28T07:20:26
+CLI-00462,Gustavo Moura,RJ,Brasil,2022-07-28T16:26:32
+CLI-00463,Ana Julia da Cunha,PE,Brasil,2022-03-05T17:45:08
+CLI-00464,Danilo Pinto,RS,Brasil,2023-11-10T15:30:33
+CLI-00465,Isis Monteiro,RJ,Brasil,2022-06-27T22:29:58
+CLI-00466,Anna Liz Guerra,MG,Brasil,2023-11-24T11:49:55
+CLI-00467,Sara Aparecida,RS,Brasil,2022-07-16T10:15:17
+CLI-00468,Maysa Nogueira,SP,Brasil,2022-11-01T19:49:18
+CLI-00469,Enrico Araújo,PR,Brasil,2023-05-16T09:20:30
+CLI-00470,Maria Vitória Pereira,RS,Brasil,2022-10-08T22:18:07
+CLI-00471,Anna Liz Cavalcanti,CE,Brasil,2023-02-09T00:52:22
+CLI-00472,Josué Fonseca,SP,Brasil,2022-10-22T22:45:05
+CLI-00473,Marcela Castro,ES,Brasil,2023-11-03T03:16:47
+CLI-00474,Esther Souza,SP,Brasil,2023-07-06T20:17:59
+CLI-00475,Luana Santos,SP,Brasil,2023-09-23T14:47:37
+CLI-00476,Arthur Gabriel Oliveira,SP,Brasil,2023-11-17T23:57:33
+CLI-00477,Enzo Moura,PR,Brasil,2022-02-23T05:06:26
+CLI-00478,Maria Julia Costela,SC,Brasil,2022-04-13T15:43:49
+CLI-00479,Kevin Rocha,SP,Brasil,2023-07-18T22:59:10
+CLI-00480,Ana Júlia Santos,PR,Brasil,2023-05-03T14:30:41
+CLI-00481,Cauê Nunes,SC,Brasil,2022-10-22T16:20:18
+CLI-00482,João Gabriel Aparecida,CE,Brasil,2022-04-02T17:41:36
+CLI-00483,Marcelo Nunes,MG,Brasil,2022-02-08T13:58:58
+CLI-00484,João Pedro Pastor,RJ,Brasil,2022-06-30T16:59:58
+CLI-00485,Calebe Aragão,PA,Brasil,2023-02-11T15:50:31
+CLI-00486,Thomas Sampaio,DF,Brasil,2022-10-24T20:56:02
+CLI-00487,Luiz Fernando Oliveira,SP,Brasil,2023-09-10T03:06:59
+CLI-00488,Maria Julia Sales,SP,Brasil,2023-10-19T10:34:33
+CLI-00489,Olívia Vieira,CE,Brasil,2022-05-18T21:54:32
+CLI-00490,Caroline Camargo,SP,Brasil,2022-04-26T20:21:10
+CLI-00491,Sabrina Novaes,PR,Brasil,2022-07-10T13:00:47
+CLI-00492,Ana Laura Porto,BA,Brasil,2023-08-05T16:43:48
+CLI-00493,Nathan Rezende,SP,Brasil,2023-10-17T10:57:25
+CLI-00494,Lunna da Rosa,MG,Brasil,2022-03-30T09:25:42
+CLI-00495,Dom Borges,SP,Brasil,2022-05-24T13:30:20
+CLI-00496,João Guerra,SP,Brasil,2023-01-28T11:15:28
+CLI-00497,Raquel Cirino,MT,Brasil,2022-11-06T15:37:46
+CLI-00498,Pedro Miguel Lima,SP,Brasil,2023-01-04T05:44:15
+CLI-00499,Léo Martins,PR,Brasil,2023-04-22T22:19:10
+CLI-00500,Eloá Araújo,PR,Brasil,2023-12-22T23:49:19

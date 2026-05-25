@@ -19,6 +19,8 @@ dbt/ecommerce/logs/
 dbt/ecommerce/profiles.yml
 
 # Dados gerados (não versionar CSVs grandes)
+data/raw/*.csv
+data/raw/*.parquet
 
 # IDE
 .vscode/

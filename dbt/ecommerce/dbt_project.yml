@@ -1,0 +1,23 @@
+name: ecommerce
+version: 1.0.0
+profile: ecommerce
+
+model-paths: ["models"] # onde estão os SQLs
+seed-paths: ["seeds"] # → se precisarmos de tabelas de referência estáticas || onde estão CSVs de referência || obsoleto mas igual ao >data-paths: ["data"] 
+analysis-paths: ["analysis"] #  → para análises exploratórias pontuais 
+test-paths: ["tests"] # → quando formos validar qualidade dos dados         
+macro-paths: ["macros"] # → quando tiver lógica repetida nos SQLs
+#  → as pastas acima ficarão declaradas aqui para o futuro e quando precisarmos delas, elas precisarão ser criadas (mkdir)
+
+models:
+  ecommerce:
+    bronze:
+      +materialized: view # Bronze = view (recalcula sempre)
+    silver:
+      +materialized: view # Silver = view (recalcula só se mudar o SQL
+    gold:
+      +materialized: table # Gold = Gold = tabela física (mais rápido pro dashboard)
+
+vars:
+  vip_threshold: 10000
+  top_tier_threshold: 5000

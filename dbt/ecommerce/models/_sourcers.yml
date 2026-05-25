@@ -1,0 +1,74 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Dados e tabelas brutas extraídos diretamente das fontes, banco de dados Postgres (projeto apenas local - no futuro dev e prod), sem transformações aplicadas."
+    schema: raw
+    tables:
+      - name: clientes
+# id_cliente,nome_cliente,estado,pais,data_cadastro 
+#clientes — 5 colunas
+        description: "Dados dos clientes, incluindo informações pessoais e de contato."
+        columns:  
+          - name: id_cliente
+            description: "ID único do cliente"
+          - name: nome_cliente
+            description: "Nome completo do cliente."
+          - name: estado
+            description: "Estado de residência do cliente."
+          - name: pais
+            description: "País de residência do cliente."
+          - name: data_cadastro
+            description: "Data em que o cliente se cadastrou na plataforma."
+
+      - name: produtos 
+#produtos id_produto,nome_produto,categoria,marca,preco,data_criacao
+# produtos — 6 colunas
+        description: "Dados dos produtos disponíveis para venda, incluindo detalhes e categorias."
+        columns:
+          - name: id_produto
+            description: "ID único do produto."
+          - name: nome_produto
+            description: "Nome do produto."
+          - name: categoria
+            description: "Categoria à qual o produto pertence."
+          - name: marca
+            description: "Marca do produto."
+          - name: preco
+            description: "Preço do produto."
+          - name: data_criacao
+            description: "Data em que o produto foi criado."
+
+      - name: vendas 
+#id_venda,id_cliente,id_produto,quantidade,canal_venda,preco_unitario,data_venda
+#vendas — 7 colunas
+        description: "Dados das vendas realizadas, incluindo informações sobre os clientes, produtos e transações."
+        columns:
+          - name: id_venda
+            description: "ID - Identificador único da venda."
+          - name: id_cliente
+            description: "ID do cliente que realizou a compra (chave estrangeira para clientes)."
+          - name: id_produto
+            description: "ID do produto vendido (chave estrangeira para produtos)."
+          - name: quantidade
+            description: "Quantidade de produtos vendidos na transação."
+          - name: canal_venda
+            description: "Canal pelo qual a venda foi realizada (App Mobile, Site, Marketplace, Loja Física, WhatsApp, Orgânico, Email Marketing, Redes Sociais, Mídia Paga)."
+          - name: preco_unitario
+            description: "Preço unitário do produto na venda."
+          - name: data_venda
+            description: "Data em que a venda foi realizada."
+
+      - name: preco_competidores 
+#id_produto,nome_concorrente,preco_concorrente,data_coleta
+#preco_competidores — 4 colunas
+        description: "Dados de preços dos concorrentes para os produtos, coletados periodicamente."
+        columns:
+          - name: id_produto
+            description: "ID do produto (chave estrangeira para produtos)."
+          - name: nome_concorrente
+            description: "Nome do concorrente que oferece o produto."
+          - name: preco_concorrente
+            description: "Preço do produto oferecido pelo concorrente."
+          - name: data_coleta
+            description: "Data em que os dados de preço foram coletados."

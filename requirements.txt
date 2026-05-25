@@ -1,0 +1,15 @@
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.0.0
+pyarrow>=14.0.0
+faker>=24.0.0
+
+# dbt
+dbt-core>=1.7.0
+dbt-postgres>=1.7.0
+
+# Dashboard (ativar quando chegar na fase 3)
+# streamlit>=1.30.0
+# plotly>=5.18.0
