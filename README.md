@@ -56,7 +56,7 @@ O principal objetivo deste projeto é mostrar:
 
 ## Arquitetura Medallion
 
-> 📊 [Ver diagrama interativo completo](docs/medalhao.gif)
+> 📊 ![Fluxo Completo Medallion](docs/medalhao.gif)
 
 ```
 ┌─────────────────────────────────────────────────────┐
