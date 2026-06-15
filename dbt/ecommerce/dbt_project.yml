@@ -19,5 +19,5 @@ models:
       +materialized: table # Gold = Gold = tabela física (mais rápido pro dashboard)
 
 vars:
-  vip_threshold: 10000
-  top_tier_threshold: 5000
+  vip_threshold: 100000
+  top_tier_threshold: 50000

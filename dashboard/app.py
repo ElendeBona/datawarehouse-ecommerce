@@ -228,7 +228,8 @@ def page_vendas():
     receita = df["receita_total"].sum()
     pedidos = df["total_pedidos"].sum()
     ticket = receita / pedidos if pedidos > 0 else 0
-    clientes = df["clientes_unicos"].sum()
+    # ✅ 500  #não > df["clientes_unicos"].sum()
+    clientes = len(load("gold_customer_360"))
 
     sec("Resumo Geral")
     c1, c2, c3, c4 = st.columns(4)
